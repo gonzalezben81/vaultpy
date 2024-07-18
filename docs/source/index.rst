@@ -1,4 +1,4 @@
-Welcome to Lumache's documentation!
+Welcome to the docs for vaultpy!
 ===================================
 
 **Lumache** (/lu'make/) is a Python library for cooks and food lovers
