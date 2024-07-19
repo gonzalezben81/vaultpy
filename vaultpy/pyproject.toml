@@ -1,0 +1,7 @@
+[build-system]
+requires = ["requests"]
+
+[project]
+name = "vaultpy"
+authors = [{name = "Gonzalez", email = "gonzalezben393@gmail.com"}]
+dynamic = ["version", "description"]
